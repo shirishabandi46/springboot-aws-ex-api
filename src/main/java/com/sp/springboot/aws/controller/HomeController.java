@@ -8,6 +8,6 @@ public class HomeController {
 
     @GetMapping("/")
     public String home() {
-        return "welcome to AWS first Deployment";
+        return "welcome to AWS first Deployment Shireesha";
     }
 }
